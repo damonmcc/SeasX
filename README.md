@@ -10,7 +10,7 @@ SeasX README
 V0.1
 
 1. Check Power
-	• Open Repitier Host ![alt tag](https://raw.github.com/damonmcc/SeasX/master/pictures/Icon.png)
+	• Open Repitier Host ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Icon.PNG)
 	• Check power switch under print bed
 	• Click "Connect"
 
