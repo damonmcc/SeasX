@@ -9,15 +9,12 @@ Printing Instructions
 
 1. Check Power
    • Open Repitier Host ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Icon.PNG)
-
    • Check power switch under print bed
-
-   • Click "Connect"
-  ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Power.PNG)
+   • Click "Connect" ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Power.PNG)
 
 
 2. Turn on extruder (~215) in the Manual Control tab
-  ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/ExtTemp.PNG)
+  ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/ExtruderTemp.PNG)
 
 
 3. Home all axis
