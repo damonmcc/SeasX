@@ -10,14 +10,17 @@ SeasX README
 V0.1
 
 1. Check Power
-	• Open Repitier Host ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Icon.PNG)
-	• Check power switch under print bed
-	• Click "Connect"
+• Open Repitier Host ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Icon.PNG)
+
+• Check power switch under print bed
+
+• Click "Connect"
+
 
 2. Turn on extruder (~215)
 
 3. Home all axis
-	• X axis, then Y axis, then Z axes
+• X axis, then Y axis, then Z axes
 
 4. Slice STL file
 	• Open Slicer (or Slicer experimental)
