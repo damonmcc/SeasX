@@ -9,7 +9,7 @@ Printing Instructions
 
 1. Check Power:
 
-/n•Open Repitier Host ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Icon.PNG)
+•Open Repitier Host ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Icon.PNG)
 
 •Check power switch under print bed
 
