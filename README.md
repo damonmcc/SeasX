@@ -29,7 +29,7 @@ CubeX printer rebuilt with an Azteeg X3 and Marlin firmware - SeasX README V0.2
 * Export object (name it "fileName_scale_printSettings.gcode" eg. _____)
 
 #### 5) Open G-code
-* Click "Load file" ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Loadfile.PNG)
+* Click "Load file" ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/AxisHome.PNG)
 * Examine object preview
 
 #### 6) Start print
