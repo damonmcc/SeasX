@@ -1,3 +1,4 @@
+
 # SeasX
 CubeX printer rebuilt with an Azteeg X3 and Marlin firmware
 SeasX README
@@ -7,33 +8,36 @@ V0.2
 Printing Instructions
 
 
-1. Check Power:
+### Check Power:
 
-• Open Repitier Host   ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Icon.PNG)
+* Open Repitier Host
 
-• Check power switch under print bed
-
-• Click "Connect"   ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Power.PNG)
+![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Icon.PNG)
 
 
-2. Turn on extruder (~215) in the Manual Control tab:
+* Check power switch under print bed
+
+* Click "Connect"   ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Power.PNG)
+
+
+### Turn on extruder (~215) in the Manual Control tab:
   ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/ExtruderTemp2.PNG)
 
 
-3. Home all axis:
+### Home all axis:
 
- • X axis, then Y axis, then Z axes ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/AxisHome.PNG)
+* X axis, then Y axis, then Z axes ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/AxisHome.PNG)
 
-4. Slice STL file
+### Slice STL file
 	• Open Slicer (or Slicer experimental)
 	• Choose filament and print settings
 	• Export object (name it "fileName_scale_printSettings.gcode" eg. _____)
 
-5. Open G-code
+### Open G-code
 	• Click _______
 	• Examine object preview
 
-6. Start print
+### Start print
 	• All axis will home
 	• Extruder temperature will approach starting level
 	
