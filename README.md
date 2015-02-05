@@ -33,7 +33,7 @@ CubeX printer rebuilt with an Azteeg X3 and Marlin firmware - SeasX README V0.2
 * Examine object preview
 
 #### 6) Start print
-* Click "Start Print" ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/StartPrint.PNG)
+* Click "Start Print" ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/StartPrint.png)
 * All axis will home
 * Extruder temperature will approach starting level
 	
