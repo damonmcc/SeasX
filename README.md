@@ -1,8 +1,7 @@
 
 # SeasX
-CubeX printer rebuilt with an Azteeg X3 and Marlin firmware
-SeasX README
-V0.2
+CubeX printer rebuilt with an Azteeg X3 and Marlin firmware - SeasX README V0.2
+----------------
 
 
 ### Printing Instructions
