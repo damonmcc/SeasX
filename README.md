@@ -1,26 +1,27 @@
 # SeasX
 CubeX printer rebuilt with an Azteeg X3 and Marlin firmware
-
-
-
-Instructions
-
-
 SeasX README
-V0.1
+V0.2
+
+
+Printing Instructions
+
 
 1. Check Power
-• Open Repitier Host ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Icon.PNG)
+   • Open Repitier Host ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Icon.PNG)
 
-• Check power switch under print bed
+   • Check power switch under print bed
 
-• Click "Connect"
+   • Click "Connect"
+  ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/Power.PNG)
 
 
-2. Turn on extruder (~215)
+2. Turn on extruder (~215) in the Manual Control tab
+  ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/ExtTemp.PNG)
+
 
 3. Home all axis
-• X axis, then Y axis, then Z axes
+   • X axis, then Y axis, then Z axes ![alt tag](https://github.com/damonmcc/SeasX/blob/master/pictures/AxisHome.PNG)
 
 4. Slice STL file
 	• Open Slicer (or Slicer experimental)
